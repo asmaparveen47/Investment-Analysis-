@@ -1,6 +1,5 @@
-# Investment-Analysis-
-Task 1
-hello everyone i am excited to share my 1st task as a part of Internship at Cognifiz technologies . 
+# Investment-Analysis-Task 1
+Hello everyone i am excited to share my 1st task as a part of Internship at Cognifiz technologies . 
 
 Objective: Understand and summarize key statistics in the dataset.
 
