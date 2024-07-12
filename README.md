@@ -46,6 +46,38 @@ it is noted that most of the investments are made within the age group of (26-30
 the main objective of investment made by both male and female is Gold followed by Debentures , Government bounds
 
 4.The above insights Highlights that based on gender male are the most common investors of the age-group between 25-30 and the common objective of investment is Gold followed by Debentures.
+ 
+# Investment-Analysis-Task 3
 
-📣 Find this post useful then #share #repost ♻ . Feel free to add your feedback in #comments . 
+Task - Objective Analysis
+
+Objective- Analyze the relationship between savings objectives and investment choices
+
+Steps followed
+
+Correlation Analysis :
+Here i got chance to analyze the  correlation between Saving objectives and investment Avenue to know the investment priorates of investors in future.
+
+Chart Creation :
+For the effective representation of insights used charts to display preference of investment choices for each saving objective.
+
+Findings
+
+1.realtion between saving objectives and investment avenue-
+
+* Investors tend to choose Capital appreciation as the main objective of investment over
+91 investments are made in Mutual funds to get the highest returns on their investment.
+
+* For Income as there objectives people invest in public Provident fund
+
+2.total investment made vs saving objective plans-
+
+* The most common saving objective is retirement plans where more investment is made in order to get financial independences after retirement
+
+* Next common investment plan is Healthcare where people invest for future returns and use.
+
+* Followed by Education
+
+3. the above insights highlights that the most common objective of investment is Capital Appreciation and the common avenue of investment is Mutual funds and common saving plane is Retirement plans ,followed by healthcare and education
+feel free to share feed back
 
