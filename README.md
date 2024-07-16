@@ -80,4 +80,37 @@ Findings
 
 3. the above insights highlights that the most common objective of investment is Capital Appreciation and the common avenue of investment is Mutual funds and common saving plane is Retirement plans ,followed by healthcare and education
 feel free to share feed back
+# Investment-Analysis-Task 4
+Task - Investment Duration and Frequency 
+
+Objective- Analyze investment durations and monitoring frequencies.
+
+Steps followed
+
+Duration Distribution :
+Here i visualized the distribution of investment durations preferred by investment Avenues
+
+Frequency Analysis :
+Examine investment monitoring frequencies and their impact on investment preferences.
+
+Findings
+
+1.Visualize the distribution of investment durations.
+
+* Over 133 investment are made for 3-5 years. 
+
+* Followed by 126 investments for duration of 1-3 years
+
+* Only 7 investments are made for more than 5 Years
+
+2.Examine investment monitoring frequencies and their impact on investment preferences
+
+* Over 72% i.e 203  investments are done on Monthly basis. 
+
+* Followed by Weekly  investment over 17.5%
+
+* And least investments are made on Daily basis i.e 10%
+
+
+3. Most investment duration preferred between 3-5 years over 133 investments are done according to this dataset , followed by 1-3 years with 126 investment .Over 72% i.e 203  investments are done on Monthly basis. 
 
